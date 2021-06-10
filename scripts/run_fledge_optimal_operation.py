@@ -12,11 +12,14 @@ import fledge
 def main():
 
     # Settings.
-    scenario_name = 'singapore_district1'
+    scenario_name = 'singapore_geylang'
     results_path = fledge.utils.get_results_path(__file__, scenario_name)
 
     # Recreate / overwrite database, to incorporate changes in the CSV files.
-    # fledge.data_interface.recreate_database()
+    fledge.config.config['paths']['additional_data'].append(
+        os.path.join(os.path.dirname(os.path.dirname(os.path.normpath(__file__))), 'data', 'fledge')
+    )
+    fledge.data_interface.recreate_database()
 
     # Obtain data.
     scenario_data = fledge.data_interface.ScenarioData(scenario_name)
@@ -30,28 +33,17 @@ def main():
     optimization_problem = fledge.utils.OptimizationProblem()
 
     # Define optimization variables.
-    linear_electric_grid_model.define_optimization_variables(
-        optimization_problem
-    )
-    der_model_set.define_optimization_variables(
-        optimization_problem
-    )
+    linear_electric_grid_model.define_optimization_variables(optimization_problem)
+    der_model_set.define_optimization_variables(optimization_problem)
 
     # Define constraints.
-    linear_electric_grid_model.define_optimization_constraints(
-        optimization_problem,
-        scenario_data.timesteps
-    )
-    der_model_set.define_optimization_constraints(
-        optimization_problem,
-        electric_grid_model=linear_electric_grid_model.electric_grid_model
-    )
+    linear_electric_grid_model.define_optimization_constraints(optimization_problem)
+    der_model_set.define_optimization_constraints(optimization_problem)
 
     # Define objective.
     linear_electric_grid_model.define_optimization_objective(
         optimization_problem,
-        price_data,
-        scenario_data.timesteps
+        price_data
     )
     der_model_set.define_optimization_objective(
         optimization_problem,
