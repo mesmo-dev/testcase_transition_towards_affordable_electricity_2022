@@ -1,8 +1,8 @@
 clear
 set defaultbasefrequency=50.0
 new circuit.singapore_geylang phases=1 bus1=0 basekv=66.0 mvasc3=9999999999 9999999999
-new linecode.singapore_line_type_1 nphases=1.0 rmatrix = [0.07663351] xmatrix = [0.10833000] cmatrix = [0.00000000]
-new linecode.singapore_line_type_3 nphases=1.0 rmatrix = [0.13015600] xmatrix = [0.10833000] cmatrix = [0.00000000]
+new linecode.singapore_line_type_1 nphases=1.0 rmatrix = [0.22996230] xmatrix = [0.32507731] cmatrix = [0.00000000]
+new linecode.singapore_line_type_3 nphases=1.0 rmatrix = [0.39057290] xmatrix = [0.32507731] cmatrix = [0.00000000]
 new line.1 phases=1 bus1=1.1 bus2=21.1 linecode=singapore_line_type_1 length=1.1201850718997362
 new line.2 phases=1 bus1=21.1 bus2=53.1 linecode=singapore_line_type_1 length=0.0838163957420871
 new line.3 phases=1 bus1=53.1 bus2=130.1 linecode=singapore_line_type_1 length=0.9338643789830052
