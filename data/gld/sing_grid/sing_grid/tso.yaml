@@ -1,0 +1,37 @@
+name: pypower
+time_delta: 15s
+broker: tcp://localhost:5570
+values:
+  SUBSTATION_1:
+    topic: gridlabdSubstation_1/distribution_load
+    default: 0
+  IND_LOAD_1:
+    topic: loadplayer/ind_load_1
+    default: 0
+  REF_LOAD_1:
+    topic: loadplayer/ref_load_1
+    default: 0
+  REF_LD_HIST_1:
+    topic: loadplayer/ref_load_history_1
+    default: 0
+  UNRESPONSIVE_MW_1:
+    topic: Substation_1/unresponsive_mw
+    default: 0
+  RESPONSIVE_MAX_MW_1:
+    topic: Substation_1/responsive_max_mw
+    default: 0
+  RESPONSIVE_C2_1:
+    topic: Substation_1/responsive_c2
+    default: 0
+  RESPONSIVE_C1_1:
+    topic: Substation_1/responsive_c1
+    default: 0
+  RESPONSIVE_C0_1:
+    topic: Substation_1/responsive_c0
+    default: 0
+  RESPONSIVE_DEG_1:
+    topic: Substation_1/responsive_deg
+    default: 0
+  DA_BID_1:
+    topic: Substation_1/da_bid
+    default: 0

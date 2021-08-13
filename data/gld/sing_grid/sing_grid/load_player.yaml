@@ -1,0 +1,5 @@
+name: loadplayer
+time_delta: 15s
+broker: tcp://localhost:5570
+aggregate_sub: true
+aggregate_pub: true

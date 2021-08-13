@@ -1,0 +1,4878 @@
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_92_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_92_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_92_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_92_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_342_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_92_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_135_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_135_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_365_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_92_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_112_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_135_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_388_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_135_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_158_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_135_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_5_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_5_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_5_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_5_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_331_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_210_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_331_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_210_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_279_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_331_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_16_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_210_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_233_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_279_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_210_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_210_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_256_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_279_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_279_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_279_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_39_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_81_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_81_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_81_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_353_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_81_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_376_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_101_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_124_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_81_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_147_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_320_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_222_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_268_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_245_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_28_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_111_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_134_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_343_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_366_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_389_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_91_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_134_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_343_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_134_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_343_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_134_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_343_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_343_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_157_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_134_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_4_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_232_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_15_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_38_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_15_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_330_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_255_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_278_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_15_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_80_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_100_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_80_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_80_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_354_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_377_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_80_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_123_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_80_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_146_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_169_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_221_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_27_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_244_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_267_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_71_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_94_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_114_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_137_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_344_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_367_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_310_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_333_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_3_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_212_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_258_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_235_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_18_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_83_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_83_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_60_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_83_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_83_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_83_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_103_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_126_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_149_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_355_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_355_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_355_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_378_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_355_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_355_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_322_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_322_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_322_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_322_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_322_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_322_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_190_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_201_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_247_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_224_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_93_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_93_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_93_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_93_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_93_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_93_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_113_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_113_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_136_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_345_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_368_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_70_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_113_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_113_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_113_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_113_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_159_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_2_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_332_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_211_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_234_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_257_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_17_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_82_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_82_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_82_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_82_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_82_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_125_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_356_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_379_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_102_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_356_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_356_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_356_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_356_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_148_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_356_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_321_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_200_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_223_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_246_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_269_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_29_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_50_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_96_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_192_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_73_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_346_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_369_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_116_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_139_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_312_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_335_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_1_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_180_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_214_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_237_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_85_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_181_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_62_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_85_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_290_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_357_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_105_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_128_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_301_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_324_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_203_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_226_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_249_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_72_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_95_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_115_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_347_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_138_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_334_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_311_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_213_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_236_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_19_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_259_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_61_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_84_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_84_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_104_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_358_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_127_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_323_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_300_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_191_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_202_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_225_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_248_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_75_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_98_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_171_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_194_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_52_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_118_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_348_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_337_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_314_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_292_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_216_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_239_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_205_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_41_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_64_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_87_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_205_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_160_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_183_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_107_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_359_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_281_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_281_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_281_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_303_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_326_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_281_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_281_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_281_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_205_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_205_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_205_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_228_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_74_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_74_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_74_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_97_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_74_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_170_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_51_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_74_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_193_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_349_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_117_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_336_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_291_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_313_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_215_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_238_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_86_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_40_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_86_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_390_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_86_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_86_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_182_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_63_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_129_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_106_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_280_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_280_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_325_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_280_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_280_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_302_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_280_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_280_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_204_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_227_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_54_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_196_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_380_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_77_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_150_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_173_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_31_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_339_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_271_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_316_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_294_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_218_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_207_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_185_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_66_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_89_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_391_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_162_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_20_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_43_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_328_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_328_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_328_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_328_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_305_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_328_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_260_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_109_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_66kv_3_1";
+  power_rating 75000.000;
+  primary_voltage 114315.353;
+  secondary_voltage 38105.118;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_283_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_207_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_30_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_381_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_53_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_76_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_99_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_76_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_76_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_195_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_172_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_119_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_270_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_270_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_338_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_270_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_315_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_270_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_293_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_270_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_76_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_76_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_217_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_76_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_206_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_206_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_65_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_206_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_88_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_184_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_161_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_42_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_108_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_327_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_304_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_66kv_2_1";
+  power_rating 75000.000;
+  primary_voltage 114315.353;
+  secondary_voltage 38105.118;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_282_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_206_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_229_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_206_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_152_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_175_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_198_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_382_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_56_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_10_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_10_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_33_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_10_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_318_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_250_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_296_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_273_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_10_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_10_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_79_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_141_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_164_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_187_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_209_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_370_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_22_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_45_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_307_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_285_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_66kv_1_2";
+  power_rating 75000.000;
+  primary_voltage 114315.353;
+  secondary_voltage 38105.118;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_262_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_68_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_66kv_1_1";
+  power_rating 75000.000;
+  primary_voltage 114315.353;
+  secondary_voltage 38105.118;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_219_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_174_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_360_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_55_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_78_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_197_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_32_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_383_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_151_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_272_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_295_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_317_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_208_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_163_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_208_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_208_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_371_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_186_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_208_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_67_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_208_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_208_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_44_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_140_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_21_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_329_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_329_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_329_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_329_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_329_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_261_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_284_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_306_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_154_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_177_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_12_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_361_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_131_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_384_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_9_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_298_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_275_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_252_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_35_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_58_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_143_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_166_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_372_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_120_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_309_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_189_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_287_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_264_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_241_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_24_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_47_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_153_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_199_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_176_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_11_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_34_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_362_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_385_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_11_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_130_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_319_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_8_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_297_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_251_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_274_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_11_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_11_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_11_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_57_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_142_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_188_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_165_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_350_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_373_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_23_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_308_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_286_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_240_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_263_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_46_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_69_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_110_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_133_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_340_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_386_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_363_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_133_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_133_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_133_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_133_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_90_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_156_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_179_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_7_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_133_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_7_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_7_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_7_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_7_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_254_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_231_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_14_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_14_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_37_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_14_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_277_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_122_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_351_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_374_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_145_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_168_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_243_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_220_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_26_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_49_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_266_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_289_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_155_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_132_2";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_132_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_341_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_364_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_132_6";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_132_5";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_132_4";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_387_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_132_3";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_178_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_6_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_230_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_253_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_276_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_13_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_36_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_299_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_59_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_144_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_121_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_352_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_375_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_167_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_66kv_4_1";
+  power_rating 75000.000;
+  primary_voltage 114315.353;
+  secondary_voltage 38105.118;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_242_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_265_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_48_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_25_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
+object transformer_configuration {
+  name feeder1_"xcon_cimxfmrcode_22kv_288_1";
+  power_rating 1000.000;
+  primary_voltage 38105.118;
+  secondary_voltage 692.820;
+  connect_type WYE_WYE;
+  resistance 0.011000;
+  reactance 0.020000;
+}
