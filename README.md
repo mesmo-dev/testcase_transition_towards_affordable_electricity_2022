@@ -1,16 +1,12 @@
-# Singapore Test Case
+# Test Case for the Transition towards Affordable Electricity
 
-Singapore-based test case for PNNL-TUMCREATE collaboration.
+This repository hosts the test case definitions for GridLAB-D, MESMO and urbs that are presented as part of the following book chapter:
 
-## Dependencies
+> Sebastian Troitzsch, Sarmad Hanif, Tobias Massier, Kai Zhang, Bilal Ahmad Bhatti, and Md Jan Alam. “Transition towards Affordable Electricity: Tools and Methods.” In Transitioning to Affordable and Clean Energy. MDPI, 2022. <https://www.mdpi.com/books/pdfview/edition/1231>.
 
-- **FLEDGE**:
-    - Use branch [`feature/pnnl_tumcreate_colab`](https://github.com/TUMCREATE-ESTL/fledge/tree/feature/pnnl_tumcreate_colab).
-    - Setup FLEDGE according to the [recommended installation instructions](https://tumcreate-estl.github.io/fledge/feature/pnnl_tumcreate_colab/getting_started.html#recommended-installation).
+## Contents
 
-## Repository structure
-
-- [`data/fledge`](./data/fledge) - Test case definition in [FLEDE format](https://tumcreate-estl.github.io/fledge/feature/pnnl_tumcreate_colab/data_reference.html).
-- [`data/opendss`](./data/opendss) - Test case definition in OpenDSS format.
-- [`data/supplemental`](./data/supplemental) - Supplemental test case data.
-- [`scripts`](./scripts) - All scripts for running the test case / producing results should be kept here.
+- [`gridlab-d`](./gridlab-d) - Test case definitions for GridLAB-D.
+- [`mesmo`](./mesmo) - Test case definition for MESMO.
+- [`urbs`](./urbs) - Test case definition for urbs.
+- [`supplemental/electric_grid.html`](./supplemental/electric_grid.html) - Supplemental HTML visualization for the electric grid of the test case.
